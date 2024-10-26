@@ -40,6 +40,6 @@
             <p><strong>Adrien VENTRE</strong> : BTS SIO SISR.</p>
         </div>
 
-        <h2 style="color: #003366; border-bottom: 2px solid #0056b3; padding-bottom: 5px;">Licence</h2>
+   <h2 style="color: #003366; border-bottom: 2px solid #0056b3; padding-bottom: 5px;">Licence</h2>
         <p>Indiquez si le projet est sous licence libre ou toute autre forme de licence.</p>
     </div>
